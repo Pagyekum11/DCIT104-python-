@@ -1,6 +1,6 @@
 # Agyekum Paul
 # 10976491
-# The sum of prime numbers for a given number.
+# The sum and average of prime numbers for a given number.
 
 lower = int(input("enter lower range: "))
 upper = int(input("enter upper range: "))
